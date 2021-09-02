@@ -1,0 +1,1 @@
+com.inventory.ui.HomePage

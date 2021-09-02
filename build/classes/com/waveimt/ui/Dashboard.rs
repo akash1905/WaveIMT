@@ -1,0 +1,15 @@
+com.inventory.ui.Dashboard
+com.inventory.ui.Dashboard$14
+com.inventory.ui.Dashboard$12
+com.inventory.ui.Dashboard$13
+com.inventory.ui.Dashboard$10
+com.inventory.ui.Dashboard$11
+com.inventory.ui.Dashboard$1
+com.inventory.ui.Dashboard$2
+com.inventory.ui.Dashboard$3
+com.inventory.ui.Dashboard$4
+com.inventory.ui.Dashboard$5
+com.inventory.ui.Dashboard$6
+com.inventory.ui.Dashboard$7
+com.inventory.ui.Dashboard$8
+com.inventory.ui.Dashboard$9

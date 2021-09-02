@@ -1,0 +1,14 @@
+com.inventory.ui.Suppliers$10
+com.inventory.ui.Suppliers$9
+com.inventory.ui.Suppliers$8
+com.inventory.ui.Suppliers$12
+com.inventory.ui.Suppliers$11
+com.inventory.ui.Suppliers$13
+com.inventory.ui.Suppliers$1
+com.inventory.ui.Suppliers$3
+com.inventory.ui.Suppliers$2
+com.inventory.ui.Suppliers$5
+com.inventory.ui.Suppliers$4
+com.inventory.ui.Suppliers$7
+com.inventory.ui.Suppliers$6
+com.inventory.ui.Suppliers

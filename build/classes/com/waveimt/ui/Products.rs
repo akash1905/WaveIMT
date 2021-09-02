@@ -1,0 +1,10 @@
+com.inventory.ui.Products$9
+com.inventory.ui.Products
+com.inventory.ui.Products$8
+com.inventory.ui.Products$7
+com.inventory.ui.Products$6
+com.inventory.ui.Products$5
+com.inventory.ui.Products$4
+com.inventory.ui.Products$3
+com.inventory.ui.Products$2
+com.inventory.ui.Products$1
